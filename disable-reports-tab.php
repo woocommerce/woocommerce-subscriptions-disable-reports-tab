@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Disable Reports Tab
+ * Plugin Name: WooCommerce Subscriptions - Disable Reports Tab
  * Plugin URI: https://github.com/Prospress/disable-reports-tab/
  * Description: Removes the subscriptions tab from WC reports
  * Author: Prospress Inc.
