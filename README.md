@@ -1,3 +1,5 @@
+> IMPORTANT: This code is made available in the hope that it will be useful, but **without any warranty**. See the GNU General Public License included with the code for more details. Automattic or WooCommerce support services are also not available to assist with the use of this code.
+
 # WooCommerce Subscriptions - Disable Reports Tab
 
 Removes the subscriptions tab from WooCommerce reports. This is designed to be used in conjunction with [Disable Report Cache Updates](https://github.com/Prospress/woocommerce-subscriptions-disable-report-cache-updates)
